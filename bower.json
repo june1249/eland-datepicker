@@ -1,0 +1,30 @@
+{
+  "name": "eland-datepicker",
+  "version": "1.0.0",
+  "authors": [
+    "rajeshwarpatlolla <rajeshwar.patlolla@gmail.com>"
+  ],
+  "description": "A date picker for ionic framework",
+  "main": [
+    "./dist/eland-datepicker.bundle.min.js"
+  ],
+  "keywords": [
+    "ionic-datepicker",
+    "ionic",
+    "datepicker",
+    "datepicker for ionic",
+    "datepicker for ionic framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/june1249",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ionic": ">=0.9.27"
+  }
+}
